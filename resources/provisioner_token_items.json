@@ -1,0 +1,344 @@
+{
+  "verdant_brink": [
+    {
+      "sylvari": [
+        {
+          "id": "46281",
+          "name": "Assassin's Krait Machete"
+        },
+        {
+          "id": "46040",
+          "name": "Assassin's Krait Star"
+        },
+        {
+          "id": "46186",
+          "name": "Assassin's Krait Shooter"
+        },
+        {
+          "id": "45731",
+          "name": "Assassin's Masquerade Leggings"
+        },
+        {
+          "id": "45765",
+          "name": "Assassin's Noble Pants"
+        },
+        {
+          "id": "45622",
+          "name": "Assassin's Gladiator Legplates"
+        }
+      ]
+    },
+    {
+      "itzel": [
+        {
+          "id": "15465",
+          "name": "Carrion Krait Slayer"
+        },
+        {
+          "id": "13924",
+          "name": "Carrion Krait Wand"
+        },
+        {
+          "id": "14469",
+          "name": "Carrion Krait Short Bow"
+        },
+        {
+          "id": "11121",
+          "name": "Carrion Masquerade Boots"
+        },
+        {
+          "id": "11876",
+          "name": "Carrion Noble Boots"
+        },
+        {
+          "id": "10702",
+          "name": "Carrion Gladiator Boots"
+        }
+      ]
+    },
+    {
+      "pact": [
+        {
+          "id": "15394",
+          "name": "Valkyrie Krait Shell"
+        },
+        {
+          "id": "13895",
+          "name": "Valkyrie Krait Crook"
+        },
+        {
+          "id": "14517",
+          "name": "Valkyrie Krait Whelk"
+        },
+        {
+          "id": "11295",
+          "name": "Valkyrie Masquerade Raiments"
+        },
+        {
+          "id": "11798",
+          "name": "Valkyrie Noble Coat"
+        },
+        {
+          "id": "10722",
+          "name": "Valkyrie Gladiator Chestplate"
+        }
+      ]
+    },
+    {
+      "noble": [
+        {
+          "id": "15508",
+          "name": "Cleric's Krait Warhammer"
+        },
+        {
+          "id": "13974",
+          "name": "Cleric's Krait Star"
+        },
+        {
+          "id": "14596",
+          "name": "Cleric's Krait Handgun"
+        },
+        {
+          "id": "11248",
+          "name": "Cleric's Masquerade Gloves"
+        },
+        {
+          "id": "11835",
+          "name": "Cleric's Noble Gloves"
+        },
+        {
+          "id": "10710",
+          "name": "Cleric's Gladiator Gauntlets"
+        }
+      ]
+    },
+    {
+      "quaggan": [
+        {
+          "id": "36779",
+          "name": "Apothecary's Krait Ripper"
+        },
+        {
+          "id": "36813",
+          "name": "Apothecary's Krait Crook"
+        },
+        {
+          "id": "36750",
+          "name": "Apothecary's Krait Recurve Bow"
+        },
+        {
+          "id": "36892",
+          "name": "Apothecary's Masquerade Mantle"
+        },
+        {
+          "id": "36891",
+          "name": "Apothecary's Noble Shoulders"
+        },
+        {
+          "id": "36746",
+          "name": "Apothecary's Gladiator Pauldrons"
+        }
+      ]
+    }
+  ],
+  "auric_basin": [
+    {
+      "priory": [
+        {
+          "id": "38336",
+          "name": "Bringer's Krait Morning Star"
+        },
+        {
+          "id": "38415",
+          "name": "Bringer's Krait Wand"
+        },
+        {
+          "id": "38367",
+          "name": "Bringer's Krait Recurve Bow"
+        },
+        {
+          "id": "38228",
+          "name": "Giver's Masquerade Mask"
+        },
+        {
+          "id": "38264",
+          "name": "Giver's Noble Mask"
+        },
+        {
+          "id": "38179",
+          "name": "Giver's Gladiator Helm"
+        }
+      ]
+    },
+    {
+      "exalted": [
+        {
+          "id": "15352",
+          "name": "Valkyrie Krait Morning Star"
+        },
+        {
+          "id": "13895",
+          "name": "Valkyrie Krait Crook"
+        },
+        {
+          "id": "14566",
+          "name": "Valkyrie Krait Brazier"
+        },
+        {
+          "id": "11295",
+          "name": "Valkyrie Masquerade Raiments"
+        },
+        {
+          "id": "11798",
+          "name": "Valkyrie Noble Coat"
+        },
+        {
+          "id": "10722",
+          "name": "Valkyrie Gladiator Chestplate"
+        }
+      ]
+    },
+    {
+      "skritt": [
+        {
+          "id": "15427",
+          "name": "Rampager's Krait Battleaxe"
+        },
+        {
+          "id": "13928",
+          "name": "Rampager's Krait Wand"
+        },
+        {
+          "id": "14648",
+          "name": "Rampager's Krait Shooter"
+        },
+        {
+          "id": "11167",
+          "name": "Rampager's Masquerade Leggings"
+        },
+        {
+          "id": "11754",
+          "name": "Rampager's Noble Pants"
+        },
+        {
+          "id": "10699",
+          "name": "Rampager's Gladiator Legplates"
+        }
+      ]
+    }
+  ],
+  "tangled_depths": [
+    {
+      "ogre": [
+        {
+          "id": "15391",
+          "name": "Berserker's Krait Shell"
+        },
+        {
+          "id": "13976",
+          "name": "Berserker's Krait Star"
+        },
+        {
+          "id": "14563",
+          "name": "Berserker's Krait Brazier"
+        },
+        {
+          "id": "11341",
+          "name": "Berserker's Masquerade Mantle"
+        },
+        {
+          "id": "11921",
+          "name": "Berserker's Noble Shoulders"
+        },
+        {
+          "id": "10691",
+          "name": "Berserker's Gladiator Pauldrons"
+        }
+      ]
+    },
+    {
+      "rata_novus": [
+        {
+          "id": "15423",
+          "name": "Carrion Krait Battleaxe"
+        },
+        {
+          "id": "13973",
+          "name": "Carrion Krait Star"
+        },
+        {
+          "id": "14428",
+          "name": "Carrion Krait Recurve Bow"
+        },
+        {
+          "id": "11247",
+          "name": "Carrion Masquerade Gloves"
+        },
+        {
+          "id": "11834",
+          "name": "Carrion Noble Gloves"
+        },
+        {
+          "id": "10709",
+          "name": "Carrion Gladiator Gauntlets"
+        }
+      ]
+    },
+    {
+      "nuhoch": [
+        {
+          "id": "15512",
+          "name": "Knight's Krait Warhammer"
+        },
+        {
+          "id": "13894",
+          "name": "Knight's Krait Crook"
+        },
+        {
+          "id": "14516",
+          "name": "Knight's Krait Whelk"
+        },
+        {
+          "id": "11126",
+          "name": "Knight's Masquerade Boots"
+        },
+        {
+          "id": "11881",
+          "name": "Knight's Noble Boots"
+        },
+        {
+          "id": "10707",
+          "name": "Knight's Gladiator Boots"
+        }
+      ]
+    },
+    {
+      "scar": [
+        {
+          "id": "36779",
+          "name": "Apothecary's Krait Ripper"
+        },
+        {
+          "id": "36780",
+          "name": "Apothecary's Krait Wand"
+        },
+        {
+          "id": "36812",
+          "name": "Apothecary's Krait Shooter"
+        },
+        {
+          "id": "36844",
+          "name": "Apothecary's Masquerade Mask"
+        },
+        {
+          "id": "36842",
+          "name": "Apothecary's Noble Mask"
+        },
+        {
+          "id": "36806",
+          "name": "Apothecary's Gladiator Helm"
+        }
+      ]
+    }
+  ]
+}
