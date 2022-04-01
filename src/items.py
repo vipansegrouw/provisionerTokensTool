@@ -40,7 +40,7 @@ def _get_items_prices(items_input: List[Dict[str, str]]) -> List[Dict[str, str]]
     return items_output
 
 
-def _get_best_item_per_vendor(items_with_prices: List[Dict[str, str]]) -> List[Dict[str, str]]:
+def get_best_item_per_vendor(items_with_prices: List[Dict[str, str]]) -> List[Dict[str, str]]:
     """
     This method checks vendor offerings against their current prices, and selects the lowest-price item from each
     vendor's 6-item offering.
@@ -92,7 +92,7 @@ def _choose_best_of_6(items: List[Dict[str, str]]) -> Dict[str, str]:
     return best_item
 
 
-def _get_items_within_price_threshold(threshold: int, items: List[Dict[str, str]]) -> List[Dict[str, str]]:
+def get_items_within_price_threshold(threshold: int, items: List[Dict[str, str]]) -> List[Dict[str, str]]:
     """
     Takes a threshold value, and removes any of the items in the list that exceed this price limit.
     :param threshold: int value above which items are removed from consideration
